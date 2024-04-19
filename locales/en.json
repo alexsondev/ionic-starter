@@ -1,0 +1,13 @@
+{
+  "tabs": {
+    "home": {
+      "label": "Home"
+    },
+    "search": {
+      "label": "Discover"
+    },
+    "settings": {
+      "label": "Settings"
+    }
+  }
+}

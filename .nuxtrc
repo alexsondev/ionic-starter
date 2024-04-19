@@ -1,0 +1,10 @@
+ionic.config.mode=ios
+ssr=false
+vuefire.auth=true
+vuefire.config.apikey=AIzaSyBD-M5Y9R3pFeCSoOGwM1z9wZHwRoCmfYk
+vuefire.config.projectId=smartform-d1388
+vuefire.config.authDomain=smartform-d1388.firebaseapp.com
+vuefire.config.storageBucket=smartform-d1388.appspot.com
+vuefire.config.messagingSenderId=401893646080
+vuefire.config.appId=1:401893646080:web:da60dc98179c919fc45de5
+vuefire.config.measurementId=G-DDER5QGB0G

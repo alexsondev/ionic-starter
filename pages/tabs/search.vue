@@ -5,10 +5,11 @@
         <ion-title>{{ $t('tabs.search.label') }}</ion-title>
       </ion-toolbar>
     </ion-header>
-    <ion-content :fullscreen="true">
+    <ion-content :fullscreen="true" :color="settings.darkMode ? 'dark' : 'light'">
       <ion-header collapse="condense">
-        <ion-toolbar>
+        <ion-toolbar color="transparent">
           <ion-title size="large">{{ $t('tabs.search.label') }}</ion-title>
+          <ion-searchbar></ion-searchbar>
         </ion-toolbar>
       </ion-header>
 
@@ -18,5 +19,5 @@
 </template>
 
 <script setup lang="ts">
-
+const { settings } = useSettings();
 </script>

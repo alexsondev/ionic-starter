@@ -7,7 +7,12 @@
       "label": "Discover"
     },
     "settings": {
-      "label": "Settings"
+      "label": "Settings",
+      "language": "Language",
+      "selectLanguage": "Select the language",
+      "theme": "Dark Mode",
+      "version": "Version",
+      "notifications": "Allow Notifications"
     }
   }
 }

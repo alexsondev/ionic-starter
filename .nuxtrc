@@ -1,3 +1,4 @@
+devServer.port=3000
 ionic.config.mode=ios
 ssr=false
 vuefire.auth=true

@@ -6,7 +6,8 @@ export default {
   extend: {
     colors: {
       "primary-color": "var(--ion-color-primary)",
-      "secondary-color": "var(--ion-color-secondary)"
+      "secondary-color": "var(--ion-color-secondary)",
+      "tertiary-color": "var(--ion-color-tertiary)"
     },
   }
 }
